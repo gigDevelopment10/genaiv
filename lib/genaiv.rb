@@ -2,7 +2,8 @@
 
 require_relative "genaiv/version"
 
-module Genaiv
-  class Error < StandardError; end
-  # Your code goes here...
+class Genaiv
+  def self.hi
+    puts "Hello world!"
+  end
 end

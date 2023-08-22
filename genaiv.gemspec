@@ -6,10 +6,10 @@ Gem::Specification.new do |spec|
   spec.name = "genaiv"
   spec.version = Genaiv::VERSION
   spec.authors = ["@Zoya"]
-  spec.email = ["84071291+gigDevelopment10@users.noreply.github.com"]
+  spec.email = ["zoyajmd@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
+  spec.summary = "Genaiv gem allows you to use large language models to generate text."
+  spec.description = "TODO: Sentence Complet"
   spec.homepage = "TODO: Put your gem's website or public repo URL here."
   spec.required_ruby_version = ">= 2.6.0"
 
